@@ -1,11 +1,12 @@
-#👨‍💻 Sobre mim 
+# 👨‍💻 Sobre mim 
 
-##`Desenvolvedor FullStack`##
+## `Desenvolvedor FullStack`
 
 Meu nome é **Enzo Grigol Martins**, tenho 20 anos e sou residente de **Porto Alegre - RS**.  
 Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º semestre**.  
 
 ---
+
 <p align="left">
     <a href="https://www.linkedin.com/in/enzo-grigol-martins-20979b246/">
         <img 
@@ -23,7 +24,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     </a>
 </p>
 
-
+---
 
 ### 🤖 Linguagens e Tecnologias que estudo
 
@@ -31,7 +32,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="Java" 
     title="Java" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -39,7 +40,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -47,7 +48,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -55,7 +56,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -63,7 +64,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -71,7 +72,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="NodeJS" 
     title="NodeJS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -79,7 +80,7 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -87,13 +88,16 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º se
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <br/>
 <br/>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
