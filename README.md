@@ -2,8 +2,11 @@
 
 ## `Desenvolvedor FullStack`
 
-Meu nome é **Enzo Grigol Martins**, tenho 20 anos e sou residente de **Porto Alegre - RS**.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º semestre**.  
+Meu nome é **Enzo Grigol Martins**, tenho 21 anos e sou residente de **Porto Alegre - RS**.  
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou no **5º semestre**.
+Possuo experiência prática em **suporte**, **manutenção de hardware e programação/atualização de sites (AGERGS)**. 
+Completei a formação intensiva **Full Stack Júnior (+praTi)**, especializando-me em **Frontend (React) e Backend (Java/Spring)**. 
+Estou pronto para aliar minha capacidade de resolução de problemas, aprendida 
 
 ---
 
